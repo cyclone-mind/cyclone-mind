@@ -26,6 +26,7 @@ jobs:
 
       - name: Generate Metrics dashboard
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: dist/metrics.svg
