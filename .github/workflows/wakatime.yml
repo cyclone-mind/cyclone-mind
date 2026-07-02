@@ -17,14 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update WakaTime stats in README
-        uses: athul/waka-readme@master
+        uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "False"
-          SHOW_COMMIT: "True"
           SHOW_TIME: "True"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          SHOW_TOTAL: "True"
+          LANG_COUNT: "8"
+          TIME_RANGE: "last_7_days"
           COMMIT_MESSAGE: "chore: update WakaTime stats"
