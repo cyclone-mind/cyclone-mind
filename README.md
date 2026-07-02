@@ -112,7 +112,7 @@ passions: [python, maps, photography]
 
 <!-- GitHub Stats card -->
 <!-- Self-host https://github.com/anuraghazra/github-readme-stats on Vercel, then replace the domain below -->
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats-cyclone-mind.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats-blue-eta-74.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
 
 <!-- Streak stats -->
 <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight&cache_seconds=86400" />
@@ -121,7 +121,7 @@ passions: [python, maps, photography]
 
 <!-- Top languages -->
 <!-- Self-host https://github.com/anuraghazra/github-readme-stats on Vercel, then replace the domain below -->
-<img height="170" alt="Top Languages" src="https://github-readme-stats-cyclone-mind.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats-blue-eta-74.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" />
 
 </div>
 
