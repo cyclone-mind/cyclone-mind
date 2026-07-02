@@ -167,7 +167,13 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 ## ⏳ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-_Coding stats will be auto-updated daily by GitHub Actions._
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > Powered by [WakaTime](https://wakatime.com/) — track your coding time automatically in your editor.
