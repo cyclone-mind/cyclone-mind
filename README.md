@@ -111,15 +111,17 @@ passions: [python, maps, photography]
 <div align="center">
 
 <!-- GitHub Stats card -->
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<!-- Using public mirror; replace with your own Vercel deploy if 503 occurs -->
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
 
 <!-- Streak stats -->
-<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight" />
+<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
 <br><br>
 
 <!-- Top languages -->
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<!-- Using public mirror; replace with your own Vercel deploy if 503 occurs -->
+<img height="170" alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" />
 
 </div>
 
