@@ -22,7 +22,7 @@
 ---
 
 <!-- ========== About Me ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/People/Waving%20Hand.png" width="28" /> About Me
+## 👋 About Me
 
 ```yaml
 name: Shouyu
@@ -42,7 +42,7 @@ passions: [python, maps, photography]
 ---
 
 <!-- ========== Tech Stack ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
+## 🔧 Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -106,48 +106,32 @@ passions: [python, maps, photography]
 ---
 
 <!-- ========== GitHub Stats ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats card with dark/light theme support -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-</picture>
+<!-- GitHub Stats card -->
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
-<!-- Streak stats with dark/light theme support -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=default" />
-  <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight" />
-</picture>
+<!-- Streak stats -->
+<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight" />
 
 <br><br>
 
 <!-- Top languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=default&langs_count=8" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</picture>
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cyclone-mind&hide_border=true&theme=tokyo-night&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cyclone-mind&hide_border=true&theme=react-light&area=true" />
-    <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cyclone-mind&hide_border=true&theme=tokyo-night&area=true" />
-  </picture>
+  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cyclone-mind&hide_border=true&theme=tokyo-night&area=true" />
 </div>
 
 ---
 
 <!-- ========== Pinned Projects (GitHub native) ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Pushpin.png" width="28" /> Pinned Projects
+## 📌 Pinned Projects
 
 <div align="center">
   <i>My pinned repositories are shown below — powered by GitHub's native Pinned feature.</i>
@@ -160,7 +144,7 @@ passions: [python, maps, photography]
 ---
 
 <!-- ========== Metrics Dashboard (GitHub Actions) ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Chart%20Increasing.png" width="28" /> Metrics Dashboard
+## 📈 Metrics Dashboard
 
 <div align="center">
   <i>Auto-generated daily via GitHub Actions · powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i>
@@ -171,7 +155,7 @@ passions: [python, maps, photography]
 ---
 
 <!-- ========== Recent Activity (GitHub Actions) ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Spiral%20Calendar.png" width="28" /> Recent Activity
+## 📅 Recent Activity
 
 <!--START_SECTION:activity-->
 _Recent activity will be auto-updated daily by GitHub Actions._
@@ -180,7 +164,7 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 ---
 
 <!-- ========== WakaTime Coding Stats (GitHub Actions) ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Hourglass%20Done.png" width="28" /> WakaTime Coding Stats
+## ⏳ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
 _Coding stats will be auto-updated daily by GitHub Actions._
@@ -205,7 +189,7 @@ _Coding stats will be auto-updated daily by GitHub Actions._
 ---
 
 <!-- ========== Connect ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Love%20Letter.png" width="28" /> Let's Connect
+## ✉️ Let's Connect
 
 <p align="center">
   <a href="mailto:zhoushouyu@dezhipu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -216,16 +200,12 @@ _Coding stats will be auto-updated daily by GitHub Actions._
 ---
 
 <!-- ========== Snake Animation (GitHub Actions) ========== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animals/Snake.png" width="28" /> Contributions Eaten By Snake
+## 🐍 Contributions Eaten By Snake
 
 <div align="center">
-  <i>Auto-generated daily via GitHub Actions · powered by <a href="https://github.com/Platane/snak">Platane/snak</a></i>
+  <i>Auto-generated daily via GitHub Actions · powered by <a href="https://github.com/Platane/snk">Platane/snk</a></i>
   <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyclone-mind/cyclone-mind/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyclone-mind/cyclone-mind/output/github-snake.svg" />
-    <img width="95%" alt="Snake animation - eats my contributions" src="https://raw.githubusercontent.com/cyclone-mind/cyclone-mind/output/github-snake.svg" />
-  </picture>
+  <img width="95%" alt="Snake animation - eats my contributions" src="https://raw.githubusercontent.com/cyclone-mind/cyclone-mind/output/github-snake.svg" />
 </div>
 
 ---
