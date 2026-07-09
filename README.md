@@ -5,13 +5,6 @@
   </a>
 </div>
 
-<!-- ========== Social Badges ========== -->
-<p align="center">
-  <a href="https://github.com/cyclone-mind"><img src="https://img.shields.io/badge/GitHub-%40cyclone--mind-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-your--blog.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"/></a>
-  <a href="mailto:zhoushouyu@dezhipu.com"><img src="https://img.shields.io/badge/Email-zhoushouyu%40dezhipu.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
 <!-- ========== Visitor Counter ========== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyclone-mind&label=Profile+Visitors&color=58a6ff&style=flat-square&logo=github" alt="Visitor Count" />
@@ -67,93 +60,6 @@ passions: [python, maps, photography]
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 </details>
 
-<details open>
-<summary><b>GIS & Geospatial</b></summary>
-<br>
-
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgis&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-4A7A8C?style=flat-square&logo=geoserver&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white)
-![Shapely](https://img.shields.io/badge/Shapely-2C55B5?style=flat-square&logo=python&logoColor=white)
-</details>
-
-<details open>
-<summary><b>Data & Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-</details>
-
-<details open>
-<summary><b>Tools & DevOps</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-</details>
-
----
-
-<!-- ========== GitHub Stats ========== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats card -->
-<!-- Self-host https://github.com/anuraghazra/github-readme-stats on Vercel, then replace the domain below -->
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats-blue-eta-74.vercel.app/api?username=cyclone-mind&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
-
-<!-- Streak stats -->
-<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-mind&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-
-<br><br>
-
-<!-- Top languages -->
-<!-- Self-host https://github.com/anuraghazra/github-readme-stats on Vercel, then replace the domain below -->
-<img height="170" alt="Top Languages" src="https://github-readme-stats-blue-eta-74.vercel.app/api/top-langs/?username=cyclone-mind&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" />
-
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cyclone-mind&hide_border=true&theme=tokyo-night&area=true" />
-</div>
-
----
-
-<!-- ========== Pinned Projects (GitHub native) ========== -->
-## 📌 Pinned Projects
-
-<div align="center">
-  <i>My pinned repositories are shown below — powered by GitHub's native Pinned feature.</i>
-  <br><br>
-  <a href="https://github.com/cyclone-mind?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
-  </a>
-</div>
-
----
-
-<!-- ========== Metrics Dashboard (GitHub Actions) ========== -->
-## 📈 Metrics Dashboard
-
-<div align="center">
-  <i>Auto-generated daily via GitHub Actions · powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i>
-  <br><br>
-  <img width="95%" alt="Metrics dashboard" src="https://raw.githubusercontent.com/cyclone-mind/cyclone-mind/output/metrics.svg" />
-</div>
-
 ---
 
 <!-- ========== Recent Activity (GitHub Actions) ========== -->
@@ -200,17 +106,6 @@ Bash               15 mins         ▒░░░░░░░░░░░░░░
 - 🎯 **2026 Goal:** ship a production-grade web mapping platform
 
 </details>
-
----
-
-<!-- ========== Connect ========== -->
-## ✉️ Let's Connect
-
-<p align="center">
-  <a href="mailto:zhoushouyu@dezhipu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/cyclone-mind"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"/></a>
-</p>
 
 ---
 
