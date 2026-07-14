@@ -77,16 +77,16 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 3 mins
+Total Time: 30 hrs 12 mins
 
-Python         11 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.89 %
-Markdown       7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-JSON           6 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-TypeScript     2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Text           2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Other          1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-HTML           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Git Config     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python         9 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+Markdown       6 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+JSON           6 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+TypeScript     3 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Text           2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Other          1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+PowerShell     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Git Config     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
