@@ -77,16 +77,16 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 37 mins
+Total Time: 32 hrs 27 mins
 
-Python             13 hrs 24 mins  █████████▓░░░░░░░░░░░░░░░   38.14 %
-Text               5 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Markdown           4 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-JSON               4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-HTML               2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-SRecode Template   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-CSV                55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Bash               37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Python             12 hrs 14 mins  █████████▒░░░░░░░░░░░░░░░   36.96 %
+Text               4 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+HTML               4 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+JSON               3 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Markdown           3 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+SRecode Template   1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+CSV                1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
