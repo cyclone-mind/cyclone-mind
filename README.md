@@ -77,16 +77,16 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 45 mins
+Total Time: 31 hrs 42 mins
 
-Python             17 hrs 26 mins  █████████████░░░░░░░░░░░░   52.27 %
-Markdown           7 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-YAML               4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Other              1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-JSON               45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-SRecode Template   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Bash               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-shell script       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python             17 hrs 23 mins  █████████████░░░░░░░░░░░░   52.36 %
+Markdown           8 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+YAML               3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Other              1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JSON               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Bash               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Text               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+shell script       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
