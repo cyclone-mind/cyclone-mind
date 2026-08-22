@@ -77,16 +77,16 @@ _Recent activity will be auto-updated daily by GitHub Actions._
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 58 mins
+Total Time: 20 hrs 15 mins
 
-Python       17 hrs 8 mins   ██████████████████░░░░░░░   72.52 %
-JSON         3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Other        1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-PowerShell   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Text         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       17 hrs 6 mins   ███████████████████▓░░░░░   78.47 %
+JSON         2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Other        1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
