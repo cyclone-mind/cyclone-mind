@@ -77,16 +77,16 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 35 mins
+Total Time: 18 hrs 47 mins
 
-Rust       11 hrs 54 mins  ████████████████▒░░░░░░░░   65.05 %
-Python     4 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Other      1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-JSON       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Rust         11 hrs 34 mins  ██████████████░░░░░░░░░░░   55.75 %
+Python       4 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Markdown     2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Other        1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CMake        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
