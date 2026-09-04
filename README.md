@@ -77,16 +77,16 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs
+Total Time: 15 hrs 23 mins
 
-Rust         8 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
-Python       4 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Markdown     2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Other        1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-CMake        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Rust         6 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.33 %
+Python       5 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 %
+Other        3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown     3 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+PowerShell   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
