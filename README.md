@@ -77,16 +77,16 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 43 mins
+Total Time: 14 hrs 8 mins
 
-Other              4 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
-Python             3 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Markdown           3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Rust               1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-YAML               1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-HTML               1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Git Config         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-TypeScript         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python             4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+Markdown           2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+Other              2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+YAML               1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Rust               1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+HTML               1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Git Config         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TypeScript         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
