@@ -77,16 +77,11 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 50 mins
+Total Time: 1 hr 56 mins
 
-Python             3 hrs 2 mins    █████████████▒░░░░░░░░░░░   52.91 %
-Other              54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Git Config         35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-YAML               26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Markdown           23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-TOML               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-SRecode Template   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Bash               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Python   1 hr 31 mins    ███████████████████▓░░░░░   78.23 %
+YAML     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
