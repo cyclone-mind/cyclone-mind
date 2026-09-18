@@ -77,11 +77,9 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 56 mins
+Total Time: 0 secs
 
-Python   1 hr 31 mins    ███████████████████▓░░░░░   78.23 %
-YAML     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
