@@ -66,7 +66,7 @@ passions: [python, maps, photography]
 ## 📅 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3565](https://github.com/tauri-apps/plugins-workspace/pull/3565) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+1. 🎉 Merged PR [#3565](https://github.com/tauri-apps/plugins-workspace/pull/3565) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
 <!--END_SECTION:activity-->
 
 ---
