@@ -77,16 +77,16 @@ passions: [python, maps, photography]
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 35 mins
+Total Time: 8 hrs 41 mins
 
-Markdown     3 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.50 %
-Python       3 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
-JSON         1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Other        51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-PowerShell   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Vue          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Python       3 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   35.22 %
+Markdown     3 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.68 %
+JSON         1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+PowerShell   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Vue          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
