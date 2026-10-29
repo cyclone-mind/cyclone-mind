@@ -66,7 +66,7 @@ passions: [python, maps, photography]
 ## 📅 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3565](https://github.com/tauri-apps/plugins-workspace/pull/3565) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+1. 🎉 Merged PR [#4](https://github.com/cyclone-mind/jsonl-vision/pull/4) in [cyclone-mind/jsonl-vision](https://github.com/cyclone-mind/jsonl-vision)
 <!--END_SECTION:activity-->
 
 ---
