@@ -66,7 +66,7 @@ passions: [python, maps, photography]
 ## 📅 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/cyclone-mind/jsonl-vision/pull/6) in [cyclone-mind/jsonl-vision](https://github.com/cyclone-mind/jsonl-vision)
+1. 🎉 Merged PR [#12](https://github.com/cyclone-mind/jsonl-vision/pull/12) in [cyclone-mind/jsonl-vision](https://github.com/cyclone-mind/jsonl-vision)
 <!--END_SECTION:activity-->
 
 ---
